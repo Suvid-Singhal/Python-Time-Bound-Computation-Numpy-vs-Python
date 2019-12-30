@@ -8,9 +8,7 @@ This graph is a comparision between time taken by Numpy and Nowmal Python code i
 Run the following commands in order to run the code
 ```bash
 git clone https://github.com/Suvid-Singhal/Python-Time-Bound-Computation-Numpy-vs-Python.git
-
 cd Python-Time-Bound-Computation-Numpy-vs-Python
-
 python3 run.py
 ```
 
