@@ -1,1 +1,1 @@
-# Numpy v/s Python for Matrix Multiplication
+# Numpy vs Python for Matrix Multiplication
