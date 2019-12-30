@@ -13,3 +13,9 @@ cd Python-Time-Bound-Computation-Numpy-vs-Python
 
 python3 run.py
 ```
+
+## Conclusion
+
+After seeing the result, we can conclude that Numpy is way faster than Normal Python for complex mathematical calculations. But let us now see why Numpy is faster than Normal Python.
+
+## Why Numpy is faster?
